@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: 1d9bc446ba229df6d1295781b757702ca363c2e9
+          ref: 925309073783afc8ac275835c17ab890cf0f3018
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}
