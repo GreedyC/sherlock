@@ -9,12 +9,11 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
-HackerRank
 Hashnode
 Hubski
 Instapaper
+Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
